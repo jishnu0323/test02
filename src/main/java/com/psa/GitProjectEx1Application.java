@@ -7,8 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class GitProjectEx1Application {
 
 	public static void main(String[] args) {
-		int x=100000;
-		int x=200000;
+
+		int x=400000;
+		int x=300000;
+
 		SpringApplication.run(GitProjectEx1Application.class, args);
 	}
 
